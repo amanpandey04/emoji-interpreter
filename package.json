@@ -1,7 +1,7 @@
 {
   "name": "emoji-interpreter",
   "version": "1.0.0",
-  "description": "A react app used to interpret the meaning of emojis commonly used in chatting apps",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
