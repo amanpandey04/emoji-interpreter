@@ -46,6 +46,7 @@ export default function App() {
         {emojiList.map((emoji) => {
           return (
             <span
+              key={emoji}
               onClick={() => clickHandler(emoji)}
               style={{ fontSize: "2rem", padding: "0.4rem", cursor: "pointer" }}
             >
