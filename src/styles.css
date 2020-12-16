@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+.App {
+  font-family: Poppins;
+  text-align: center;
+  letter-spacing: 0.07rem;
+}
+
+body {
+  background-color: #fec7d7;
+}
+
+h3 {
+  color: #64489a;
+}
+
+.input {
+  padding: 1rem;
+  width: 16rem;
+  border: solid 2px;
+  background-color: #d9d4e7;
+}
